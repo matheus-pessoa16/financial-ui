@@ -1,5 +1,6 @@
-# financial-ui
+# Finance UI
 
+Finance UI is a Vue based application to consume Finance API and display bank transactions. The app uses GraphQL, Appolo ORM, Vue 3 and Vue Router.
 ## Project setup
 ```
 npm install
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
